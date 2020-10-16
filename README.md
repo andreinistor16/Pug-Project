@@ -174,3 +174,4 @@ If you want to improve your SEO and user experience even further, I strongly rec
 If you run `npm i`, the git history will get reset.
 
 To avoid resetting the git history run `npm i --ignore-scripts`
+# Pug-Project
